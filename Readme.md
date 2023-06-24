@@ -72,7 +72,7 @@ Install dependencies
 ```
 
 ```bash
-  npm run start  (for frontend)
+  npm run start
 ```
 
 ## Feedback

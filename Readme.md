@@ -1,20 +1,16 @@
 
-# Project Title : Purplle_Clone
+# Project Title : PokeDex 
 
 
-Purplle is an e-commerce online website for the best products of all types of Cosmetic Items. User can buy products at best deals and offers
+PokeDex is a website created and designed to catalog and provide information regarding the various species of Pokémon featured in the Pokémon video game, anime and manga series.
+
 
 ## Demo
 Link : - https://clone-pruplle.netlify.app/
 
-## Demo ID To Explore Admin Pannel 
-Username: UttamKr  
-Password : 12345678
-
-
 ## Authors
 
-- [@uttamkrshaw](https://github.com/uttamkrshaw)
+- [@Shivampasvan](https://github.com/Shivampasvan)
 
 ## Screenshots 
 
@@ -73,10 +69,10 @@ Password : 12345678
 
 ## Features
 
-- Admin Pannel To Keep Tract of User's
-- Live previews
-- User's Details Preview
-- Cross platform
+- Search Page
+- Listing Page
+- Details's Page
+- Bookmark Page
 
 
 ## Run Locally
@@ -90,7 +86,6 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Backend
   cd Frontend
 ```
 
@@ -100,10 +95,7 @@ Install dependencies
   npm install
 ```
 
-Start the server
-
 ```bash
-  npm run server (for backend)
   npm run start  (for frontend)
 ```
 

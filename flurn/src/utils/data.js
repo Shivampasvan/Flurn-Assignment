@@ -1,0 +1,6 @@
+export const abilityArr=[{id: 1, name: 'stench'},{id: 2, name: 'drizzle'},{id: 3, name: 'speed-boost'},{id: 4, name: 'battle-armor'},{id: 5, name: 'sturdy'},{id: 6, name: 'damp'},{id: 7, name: 'limber'}]
+export const habitatArr=[{id: 1, name: 'cave'},{id: 2, name: 'ivysaur'},{id: 3, name: 'venusaur'},{id: 4, name: 'charmander'},{id: 5, name: 'charmeleon'}]
+export const locationArr=[]
+export const characteristicsArr=[]
+export const SpeciesArr=[]
+export const groupArr=[]

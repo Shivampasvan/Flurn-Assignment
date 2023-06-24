@@ -1,0 +1,136 @@
+.parentContainer{
+    margin-top: 70px;
+}
+.pokemon {
+    padding: 5px;
+    margin: 50px auto;
+    border: 1px solid rgb(6, 54, 54);
+    padding: 15px;
+    width: 90%;
+}
+.pokemon>div:first-child {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.container {
+    padding: 20px;
+}
+.pokemon-pic {
+    flex: 1;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    position: relative;
+    border: 1px solid green;
+}
+.pokemon-pic>img {
+    width: 100%;
+    backdrop-filter: blur(5px);
+    cursor: pointer;
+}
+.pokemon-pic>img:hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 5;
+}
+.pokemon-details {
+    flex: 2;
+}
+.pokemon-details>h1:first-child {
+    margin: 5px 0px 10px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    position: relative;
+}
+.pokemon-details>h1:first-child>span {
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+}
+.pokemon-tables {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    align-items: flex-start;
+}
+.pokemon-tables>table {
+    text-align: left;
+    border-collapse: collapse;
+}
+.pokemon-tables>table :is(th, td) {
+    padding: 5px 4px;
+    border: 1px solid gray;
+}
+.pokemon-tables>table th {
+    white-space: nowrap;
+    font-size: 18px;
+}
+.pokemon-moves {
+    margin: 20px 0px 5px;
+}
+#search-input {
+    width: 20%;
+    font-size: 18px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 70%;
+    border: 1px solid;
+}
+#search-input::placeholder {
+    font-size: 18px;
+}
+bdi {
+    color: #fe0000;
+    font-weight: 600;
+}
+bdi::after {
+    content: " :";
+}
+@media (max-width: 412px) {
+    .pokemon {
+        margin: 10px;
+        padding: 10px;
+    }
+    .pokemon>div:first-child {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+    .container {
+        padding: 10px;
+    }
+    .pokemon-pic {
+        width: 95%;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .pokemon-pic>img {
+        width: 100%;
+        height: auto;
+    }
+    .pokemon-details {
+        margin-top: 20px;
+    }
+    .pokemon-details>h1:first-child {
+        margin: 5px 0px;
+    }
+    .pokemon-tables {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    #search-input {
+        width: 100%;
+        margin-left: 0;
+    }
+    #search-input{
+        width: 90%;
+        margin: auto;
+    }
+}

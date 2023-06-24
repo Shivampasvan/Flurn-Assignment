@@ -56,13 +56,13 @@ Link : - https://flurn-sepia.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/uttamkrshaw/dirty-parcel-1754-Purplle-
+  git clone https://github.com/Shivampasvan/Flurn-Assignment
 ```
 
 Go to the project directory
 
 ```bash
-  cd Frontend
+  cd flurn
 ```
 
 Install dependencies

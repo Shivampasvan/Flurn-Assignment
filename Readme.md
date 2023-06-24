@@ -6,7 +6,7 @@ PokeDex is a website created and designed to catalog and provide information reg
 
 
 ## Demo
-Link : - https://clone-pruplle.netlify.app/
+Link : - https://flurn-sepia.vercel.app/
 
 ## Authors
 
@@ -14,57 +14,33 @@ Link : - https://clone-pruplle.netlify.app/
 
 ## Screenshots 
 
-## Homepage
+## Search Page
 
-![purplle1](https://github.com/uttamkrshaw/dirty-parcel-1754-Purplle-/assets/95582034/f963df10-b8ae-4710-9b33-3353bf3ede56)
-
-<!-- <img src="https://github.com/uttamkrshaw/dirty-parcel-1754-Purplle-/assets/95582034/53a9f94f-5300-4f89-9e63-8ce4186af48b" alt="Home" />
- -->
-
-## SignUp Page
-
-![purplle2](https://github.com/uttamkrshaw/dirty-parcel-1754-Purplle-/assets/95582034/d8e0c67b-d083-40e5-afc7-00c2aea29420)
-
-<!-- <img src='https://github.com/uttamkrshaw/dirty-parcel-1754-Purplle-/assets/95582034/084ff876-f35d-4fac-898a-bf4c49761341' alt='' /> -->
+![WhatsApp Image 2023-06-25 at 12 27 21 AM (4)](https://github.com/Shivampasvan/Flurn-Assignment/assets/112854390/bc1a00df-4f59-4cf8-824b-0e96a6a00019)
 
 
-## Login Page
+## List Page
 
-![purplle3](https://github.com/uttamkrshaw/dirty-parcel-1754-Purplle-/assets/95582034/97d65e61-9215-4822-b436-9b2f0696e91b)
-
-<!-- <img src="https://github.com/uttamkrshaw/dirty-parcel-1754-Purplle-/assets/95582034/6cd55b42-f36a-491e-869e-49ab3b862b51" alt="Login" />
- -->
-
-## Products Page
-
-![purplle4](https://github.com/uttamkrshaw/dirty-parcel-1754-Purplle-/assets/95582034/99bcca3b-faf8-4a11-8aec-d6895aa91665)
+![WhatsApp Image 2023-06-25 at 12 27 21 AM (3)](https://github.com/Shivampasvan/Flurn-Assignment/assets/112854390/47eb7ae1-cf88-44ed-8aad-890730eb78c4)
 
 
-<!-- <img src="https://github.com/uttamkrshaw/dirty-parcel-1754-Purplle-/assets/95582034/9b55c9b6-f41b-48ce-9166-83e64e2481c7" alt="Shopping" /> -->
+
+## Details Page
+
+![WhatsApp Image 2023-06-25 at 12 27 21 AM (2)](https://github.com/Shivampasvan/Flurn-Assignment/assets/112854390/443ad9dd-0f86-4c02-8df0-209332a5e754)
+
+## Bookmark Page - No Items
 
 
-## Single Product Page
-
-![purplle5](https://github.com/uttamkrshaw/dirty-parcel-1754-Purplle-/assets/95582034/dbd7b1bf-3f93-4890-b3f5-e3b62f8a2df1)
+![WhatsApp Image 2023-06-25 at 12 27 21 AM (1)](https://github.com/Shivampasvan/Flurn-Assignment/assets/112854390/37593319-6afb-4f5d-b67c-c4bbb9e69513)
 
 
-<!-- <img src="https://github.com/uttamkrshaw/dirty-parcel-1754-Purplle-/assets/95582034/422e51e3-cec1-4ace-b3bf-ffd9844d4f8c" alt="Mens" />
- -->
 
-## Cart Page
+## Bookmark Page
 
-![purplle6](https://github.com/uttamkrshaw/dirty-parcel-1754-Purplle-/assets/95582034/af290658-8539-4a36-b303-8b330a30aed0)
+![WhatsApp Image 2023-06-25 at 12 27 21 AM](https://github.com/Shivampasvan/Flurn-Assignment/assets/112854390/0de4135a-cfd7-4271-a91c-a72355d43ff7)
 
 
-<!-- <img src="https://github.com/uttamkrshaw/dirty-parcel-1754-Purplle-/assets/95582034/250c6baf-b8e1-43ea-bf04-0ccd72c33aa7" alt="Cart" />
- -->
-
-## Payment Page
-
-![purplle7](https://github.com/uttamkrshaw/dirty-parcel-1754-Purplle-/assets/95582034/9ccd86f1-ead9-4d36-a9e7-d79d1d87e34d)
-
-
-<!-- <img src="https://github.com/uttamkrshaw/dirty-parcel-1754-Purplle-/assets/95582034/57dd3f56-e16d-4cef-8213-a7c333e71a06" alt="Payment" /> -->
 
 
 ## Features
@@ -101,4 +77,4 @@ Install dependencies
 
 ## Feedback
 
-If you have any feedback, please reach out to us at uttamkr5599@gmail.com
+If you have any feedback, please reach out to us at shivampasvan@gmail.com

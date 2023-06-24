@@ -77,4 +77,4 @@ Install dependencies
 
 ## Feedback
 
-If you have any feedback, please reach out to us at shivampasvan@gmail.com
+If you have any feedback, please reach out to me at shivampasvan@gmail.com
